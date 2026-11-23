@@ -1,3 +1,15 @@
+# WONE Lytis
+
+**WONE Lytis** ("Lytis" = solver) is Waddaya's fork of [yaai - ABAP AI tools](https://github.com/christianjianelli/yaai) by Christian Jianelli. It is the in-SAP agent engine for WONE Resolve, part of the WONE (Waddaya One) product family.
+
+- Upstream: https://github.com/christianjianelli/yaai
+- License: MIT. See [LICENSE](./LICENSE). The original copyright notice is kept; all credit for the original framework goes to Christian Jianelli.
+- ABAP objects keep their upstream names (package `YAAI`, `YAAI_*` tables, `YCL_AAI_*` classes) so upstream changes can still be merged.
+
+The original upstream README follows.
+
+---
+
 [![License](https://img.shields.io/github/license/christianjianelli/yaai)](https://github.com/christianjianelli/yaai/blob/main/LICENSE) [![GitHub stars](https://img.shields.io/github/stars/christianjianelli/yaai)](https://github.com/christianjianelli/yaai/stargazers) [![GitHub top language](https://img.shields.io/github/languages/top/christianjianelli/yaai)](https://github.com/christianjianelli/yaai)
 
 # yaai - ABAP AI tools
